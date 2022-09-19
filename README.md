@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate M.S in Data Science from Malaysia</h3>
 <img align="right" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding" width="300">
 
-- 🔭 I’m currently focusing on my **M.S in Data Science**
+- 🔭 I’m currently focusing on: **M.S in Data Science | Freelancing**
 
-- 🌱 I’m currently learning **Python, R, SAS, SQL, PowerBI, Tableau**
+- 🌱 I’m currently learning: **Python, R, SAS, SQL, PowerBI, Tableau**
 
-- 📫 How to reach me **jarrod.tky@gmail.com**
+- 📫 You can reach me by E-mail: **jarrod.tky@gmail.com**
 
 - ⚡ Fun fact: I'm pretty good at **Badminton**
 
@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarrodtky&show_icons=true&locale=en&layout=compact" alt="jarrodtky" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jarrodtky&show_icons=true&locale=en" alt="jarrodtky" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jarrodtky&show_icons=true&locale=en" alt="jarrodtky" /></p>
