@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jarrod</h1>
 <h3 align="center">A Passionate M.S in Data Science from Malaysia</h3>
-<img align="right" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding" width="200">
+<img align="right" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding" width="250">
 
 - 🔭 I’m currently focusing on: **M.S in Data Science | Freelancing**
 
