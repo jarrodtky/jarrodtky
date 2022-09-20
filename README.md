@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently focusing on: **M.S in Data Science | Freelancing**
 
-- 🌱 I’m currently learning: **Python, R, SAS, SQL, PowerBI, Tableau**
+- 🌱 I’m currently learning: **Python, R, SAS, SQL, PowerBI, Tableau, Coursera, and Kaggle**
 
 - 📫 You can reach me by E-mail: **jarrod.tky@gmail.com**
 
