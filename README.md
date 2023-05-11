@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently focusing on: **M.S in Data Science | Freelancing**
 
-- 🌱 I’m currently learning: **Python, R, SAS, SQL, PowerBI, Tableau, Coursera, and Kaggle**
+- 🌱 I’m actively learning: **Python, R, SAS, SQL, PowerBI, Tableau, Coursera, and Kaggle**
 
 - 📫 You can reach me by E-mail: **jarrod.tky@gmail.com**
 
-- ⚡ Fun fact: I'm pretty good at **Badminton**
+- ⚡ Fun fact: I'm pretty good at **Badminton** :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
